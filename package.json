@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dimonu4/raft/issues"
   },
-  "homepage": "https://github.com/dimonu4/raft#readme"
+  "homepage": "https://github.com/dimonu4/raft#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
